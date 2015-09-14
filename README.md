@@ -95,6 +95,8 @@ Decimal   Binary   Hexidecimal
 14		  1110	   E
 15		  1111	   F
 
+```
+
 
 
 
