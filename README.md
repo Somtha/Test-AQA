@@ -117,6 +117,8 @@ Decimal   Binary   Hexidecimal
 
 
 <img src="http://www.asciitable.com/index/asciifull.gif"></img>
+<img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCPuYy4Gf-ccCFYGz2wod3Y0Edw&url=http%3A%2F%2Fwww.mirror.co.uk%2Fnews%2Ftechnology-science%2Ftechnology%2Fcreate-gifs-youtube-videos-video-sharing-4812716&psig=AFQjCNHRhN6mlbw3PkTSrBiHlhtoASOhrA&ust=1442413458547840.gif"></img>
+
 
 
 
