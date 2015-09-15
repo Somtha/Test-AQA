@@ -73,7 +73,7 @@ An example of an imaginary number would be "i"
 ### 3.5.2 Number bases
 + base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
 + base 10: Decimal numbers
-+ base 16: Hexidecimal numbers
++ base 16: Hexidecimal numbers - Easily read by computers
 + conversion between denary, binary and hex
 
 ```
@@ -98,12 +98,6 @@ Decimal   Binary   Hexidecimal
 ```
 
 
-
-
-
-
-
-
 ### 3.5.3 Units of information
 + bit and bytes
 + units of kilo, kilbi etc
@@ -118,6 +112,22 @@ Decimal   Binary   Hexidecimal
 ### 3.5.5 Information encoding system
 
 #### Character form of a decimal digit
+
+**What is it**?
+
+```
+<img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCOKfue6c-ccCFYnbGgod6QsKvA&url=http%3A%2F%2Fwww.asciitable.com%2F&psig=AFQjCNHF54EPUKhvI_AdBCpCdzq1IgwdzA&ust=1442412884782727"></img>
+
+
+```
+
+
+
+
+
+
+
+
 #### ASCII and Unicode
 #### Error checking and correction
 
