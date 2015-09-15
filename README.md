@@ -113,23 +113,19 @@ Decimal   Binary   Hexidecimal
 
 #### Character form of a decimal digit
 
-**What is it**?
-
-
-<img src="http://www.asciitable.com/index/asciifull.gif"></img>
-<img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCPuYy4Gf-ccCFYGz2wod3Y0Edw&url=http%3A%2F%2Fwww.mirror.co.uk%2Fnews%2Ftechnology-science%2Ftechnology%2Fcreate-gifs-youtube-videos-video-sharing-4812716&psig=AFQjCNHRhN6mlbw3PkTSrBiHlhtoASOhrA&ust=1442413458547840.gif"></img>
-
-
-
-
-
-
-
-
-
-
+```
+It is the decimal digit represented as a character
+```
 
 #### ASCII and Unicode
+
+**Definiton**: ASCII (American Standard Code for Information Interchange) is the most common format for text files in computers and on the Internet. In an ASCII file, each alphabetic, numeric, or special character is represented with a 7-bit binary number (a string of seven 0s or 1s). 128 possible characters are defined.
+
+**Examples**: <img src="http://www.asciitable.com/index/asciifull.gif"></img>
+
+
+
+
 #### Error checking and correction
 
 ### 3.5.6 Representing images, sound and other data
