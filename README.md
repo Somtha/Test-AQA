@@ -100,7 +100,7 @@ Decimal   Binary   Hexidecimal
 
 ### 3.5.3 Units of information
 
-<img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCIyBvNvVgMgCFQRAGgodau0IPg&url=http%3A%2F%2Fwww.vwmin.org%2Fconvert-bytes-to-kilobytes-megabytes-gigabytes-vbforums.html&psig=AFQjCNHpMd-eHVNMlXIRsQkt6gqU7pmHjA&ust=1442668452246544"></img>
+<img src="http://www.globalspec.com/ImageRepository/LearnMore/20125/bytes_table3ca99aa9c4f24a3fb3bbba3c6de7f828.gif"></img>
 
 ### 3.5.4 Binary number system
 
