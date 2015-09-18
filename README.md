@@ -176,7 +176,9 @@ repetition will be correct.
 ```
 **Check Digit**:
 ```
-Similar to Checksum, put rather than adding the numbers together and sending the sum, you put the numbers through a formula and send that along with the data
+Similar to Checksum, put rather than adding the numbers together 
+and sending the sum, you put the numbers through a formula and send 
+that along with the data
 ```
 
 
