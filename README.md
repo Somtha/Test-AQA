@@ -99,8 +99,8 @@ Decimal   Binary   Hexidecimal
 
 
 ### 3.5.3 Units of information
-+ bit and bytes
-+ units of kilo, kilbi etc
+
+<img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCNfTko3VgMgCFQS8GgoduqoMsA&url=http%3A%2F%2Fforums.ncixus.com%2Fforums%2Ftopic.php%3Fid%3D1268699&psig=AFQjCNHpMd-eHVNMlXIRsQkt6gqU7pmHjA&ust=1442668452246544"></img>
 
 ### 3.5.4 Binary number system
 
